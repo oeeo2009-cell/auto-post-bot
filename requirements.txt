@@ -2,3 +2,5 @@ pyrogram
 tgcrypto
 pyrolistener
 pytz
+pyTelegramBotAPI
+requests
